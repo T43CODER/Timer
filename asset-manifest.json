@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/T43CODER/Timer/static/css/main.89426cee.css",
+    "main.js": "/T43CODER/Timer/static/js/main.8a7e1311.js",
+    "static/js/453.67bc05c0.chunk.js": "/T43CODER/Timer/static/js/453.67bc05c0.chunk.js",
+    "index.html": "/T43CODER/Timer/index.html",
+    "main.89426cee.css.map": "/T43CODER/Timer/static/css/main.89426cee.css.map",
+    "main.8a7e1311.js.map": "/T43CODER/Timer/static/js/main.8a7e1311.js.map",
+    "453.67bc05c0.chunk.js.map": "/T43CODER/Timer/static/js/453.67bc05c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89426cee.css",
+    "static/js/main.8a7e1311.js"
+  ]
+}
